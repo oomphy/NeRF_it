@@ -48,9 +48,3 @@ To get started with NeRF, you can explore the following resources:
 ## Conclusion
 
 Neural Radiance Fields (NeRF) represents a significant advancement in 3D modeling and rendering, providing a powerful and efficient means to create realistic and detailed 3D scenes. Its ability to generate novel views and capture intricate scene details makes it a valuable tool for a wide range of applications.
-
-Feel free to dive into the provided resources to learn more and start experimenting with NeRF for your own projects!
-
----
-
-For more information or contributions, please refer to the official [NeRF GitHub repository](https://github.com/bmild/nerf) and engage with the community.
