@@ -44,8 +44,6 @@ NeRF works by encoding the 3D scene into a neural network that learns to predict
 To get started with NeRF, you can explore the following resources:
 
 - [Original NeRF Paper](https://arxiv.org/abs/2003.08934)
-- [NeRF GitHub Repository](https://github.com/bmild/nerf)
-- [Tutorials and Implementations](https://github.com/yenchenlin/nerf-pytorch)
 
 ## Conclusion
 
